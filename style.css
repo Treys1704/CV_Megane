@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+
+.scroll{
+    height:150px;
+    overflow-y: auto;
+}
+
+.user{
+    left: 20%;
+    top: 60%;
+    transform: translate(-50%, -50%);
+}
+
+.text{
+    left: 35%;
+    top: 20%;
+    transform: translate(-40%, -400%);
+}
+
+.metier{
+    left: 85%;
+    top: 10%;
+    transform: translate(30%, -590%);
+}
+
+.informations{
+    transform: translate(0px, -117px);
+}
+
+
